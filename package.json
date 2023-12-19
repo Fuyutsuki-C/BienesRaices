@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Fuyutsuki-C/BienesRaices/issues"
   },
-  "homepage": "https://github.com/Fuyutsuki-C/BienesRaices#readme"
+  "homepage": "https://github.com/Fuyutsuki-C/BienesRaices#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }

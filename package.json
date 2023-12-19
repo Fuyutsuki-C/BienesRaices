@@ -1,0 +1,26 @@
+{
+  "name": "bienesraices-mvc",
+  "version": "1.0.0",
+  "description": "Proyecto de Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fuyutsuki-C/BienesRaices.git"
+  },
+  "keywords": [
+    "MVC",
+    "Pug",
+    "Tailwind",
+    "MySQL",
+    "Sequelize"
+  ],
+  "author": "Jaime Vazquez S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fuyutsuki-C/BienesRaices/issues"
+  },
+  "homepage": "https://github.com/Fuyutsuki-C/BienesRaices#readme"
+}
